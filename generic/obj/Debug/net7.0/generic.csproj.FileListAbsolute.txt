@@ -1,0 +1,15 @@
+C:\Users\Decagon\source\repos\generic\generic\bin\Debug\net7.0\generic.exe
+C:\Users\Decagon\source\repos\generic\generic\bin\Debug\net7.0\generic.deps.json
+C:\Users\Decagon\source\repos\generic\generic\bin\Debug\net7.0\generic.runtimeconfig.json
+C:\Users\Decagon\source\repos\generic\generic\bin\Debug\net7.0\generic.dll
+C:\Users\Decagon\source\repos\generic\generic\bin\Debug\net7.0\generic.pdb
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.dll
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\refint\generic.dll
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.pdb
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\generic.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\generic\generic\obj\Debug\net7.0\ref\generic.dll
